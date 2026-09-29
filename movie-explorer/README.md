@@ -2,7 +2,12 @@
 
 A React web app to search movies, see trending films, view details and trailers, and save favorites. Data comes from the [TMDb API](https://developers.themoviedb.org/3).
 
-**Live demo:** _add your Vercel/Netlify link here_
+**Live demo:** [_Vercel link here_](https://movie-explorer-two-rust.vercel.app/)
+
+**Login credentials:**
+
+- Username: `admin`
+- Password: `123456`
 
 ## Features
 - Login page (demo login, saved in localStorage)
